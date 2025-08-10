@@ -1,4 +1,4 @@
-**🖋 Typing Speed Test**
+
 A **Python Tkinter** application to measure typing speed and accuracy. This simple yet effective tool allows users to practice typing, track progress, and improve their speed over time.
 
 **📌 Features**
